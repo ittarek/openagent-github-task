@@ -1,0 +1,5 @@
+{{#user}}
+My name is Md Tariqul Islam.
+Here are my skills : html, css ,js ,react.js, express.js, mongodb . 
+My email id is ittarek551@gmail.com.
+ {{/user}}
